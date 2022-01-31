@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "611816593933",
+    "project_id": "brothering-6969",
+    "storage_bucket": "brothering-6969.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:611816593933:android:5d0da3c715f93e7a0b5344",
+        "android_client_info": {
+          "package_name": "com.bothering"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "611816593933-licvdtt7qb6ibop075v32pqjks89bmcl.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.bothering",
+            "certificate_hash": "0904e2b851135efe065ad60bb7f878a3ffc253eb"
+          }
+        },
+        {
+          "client_id": "611816593933-bjt84l008hlvr85nlhh3q869oebiuklf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDzlC41wYLQTa0-SeQG1lfOyMoZ3ukIqnw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "611816593933-bjt84l008hlvr85nlhh3q869oebiuklf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
